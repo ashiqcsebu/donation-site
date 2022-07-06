@@ -125,6 +125,45 @@ hr{
   color: grey;
  }
 
+ .dream-container-1{
+   margin-left: 100px;;
+   width: 40%;
+   height: 30%;
+  padding-right: 5%;
+}
+
+.dream-container-2{
+  width: 40%;
+ text-align: left;
+ display: inline-block;
+ -bottom: 20px;
+}
+.dream-container-2 h1{
+  text-align: left;
+}
+#dream-container-button{
+ margin-bottom: 60px;
+}
+
+
+.dream-big{
+
+  display: flex;
+  background-repeat: no-repeat;
+  background-position: right;
+ 
+ 
+}
+
+.contribute-button {
+  text-decoration: none;
+ background-color: tomato;
+  padding: 15px 40px;
+  color: white;
+  border-radius: 5px;
+  font-weight: 700;
+  
+}
 
 
 
@@ -178,15 +217,90 @@ hr{
 }
 
 
-
-
-
 .content-four{
   text-align: center;
   margin-left: 20%;
   margin-right: 20%;
+  margin-bottom: 50px;
   color: grey;
  }
+
+
+
+ .center {
+  margin: auto;
+  width: 60%;
+  height: 150px;
+  background-color: beige;
+ 
+}
+ 
+
+.success{
+  display: flex;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 20%;
+  margin-left: 60px;
+  
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 1px 5px;
+}
+
+  
+
+
+.row-donate{
+
+  text-align: center;
+ 
+  margin-left: 30%;
+  display:inline-flex;
+ 
+ 
+}
+
+#email{
+  
+  color: white;
+  font-size: large;
+  padding-top: 20px;
+  padding-right: 25px;
+  padding-bottom: 20px;
+  padding-left: 25px;
+  border-radius: 5px;
+  margin-top: 50px;
+  border-bottom-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  background-color: rgba(191, 196, 197, 0.737);
+  
+}
+
+.subscribe-button{
+  text-decoration: none;
+  background-color: tomato;
+  color: white;
+  padding-top: 15px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  margin-top: 50px;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+  
+  
+  margin-left:-3px;
+}
+
+
 
 
 
